@@ -1,0 +1,17 @@
+code
+bert_base/__pycache__/
+bert_base/chinese_L-12_H-768_A-12/
+bert_base/chinese_L-12_H-768_A-12.zip
+bert_base/server/__pycache__/
+bert_base/train/__pycache__/
+bert_base/wwm_cased_L-24_H-1024_A-16/
+bert_base/client/__pycache__/
+bert_base/bert/__pycache__/
+
+bert_base/bert_config_files/
+data_set/
+build/
+bert_base.egg-info/
+NERdata/
+.vscode/
+dist/
